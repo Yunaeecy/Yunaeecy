@@ -8,6 +8,6 @@
 Yunaeecy/Yunaeecy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+![QR_code](00001-725946248.png)
 ![](https://user-images.githubusercontent.com/82499435/197423420-c593ad0e-aedd-4ad4-b5ba-22fce0cd066d.gif)
 ![Snake animation](https://github.com/Yunaeecy/Yunaeecy/blob/output/github-contribution-grid-snake.svg)
