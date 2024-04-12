@@ -1,5 +1,5 @@
 <div>
-<p><img width="25%" align="right" src="https://github.com/Yunaeecy/Yunaeecy/blob/main/.github/workflows/00001-725946248.png"></p>
+<p><img width="20%" align="right" src="https://github.com/Yunaeecy/Yunaeecy/blob/main/.github/workflows/00001-725946248.png"></p>
 
 <p>- 👋 Hi, I’m @Yunaeecy</p>
 <p>- 👀 I’m interested in playing piano.</p>
@@ -7,6 +7,7 @@
 <p>- 💞️ I’m looking to collaborate on Open source.</p>
 <p>- 📫 How to reach me https://yunaeecy.gitbook.io/wiki/  Email:yunaeecy@gmail.com</p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 
 ```bash
 const yuna = {
