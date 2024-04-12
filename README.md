@@ -7,7 +7,8 @@
 <p>- 💞️ I’m looking to collaborate on Open source.</p>
 <p>- 📫 How to reach me https://yunaeecy.gitbook.io/wiki/  Email:yunaeecy@gmail.com</p>
 
-```c#
+
+```bash
 const yuna = {
   name: "Yuna",
   pronouns: "she" | "her",
@@ -30,7 +31,8 @@ const yuna = {
 }
 ```
 
-<p align="left" width="100%">
+<!--<p align="left" width="100%">
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/82499435/197423420-c593ad0e-aedd-4ad4-b5ba-22fce0cd066d.gif">
-</p>
+</p>-->
+
 </div>
