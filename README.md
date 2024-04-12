@@ -1,13 +1,15 @@
 <div>
 <p><img width="20%" align="right" src="https://github.com/Yunaeecy/Yunaeecy/blob/main/.github/workflows/00001-725946248.png"></p>
 
-<p>- 👋 Hi, I’m @Yunaeecy</p>
-<p>- 👀 I’m interested in playing piano.</p>
+<h2>👋 Hi, I’m @Yunaeecy <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p>- 👀 I’m interested in playing piano. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h4NGh1d2MzMzB3Z3hkdnZ1NmxiZW9qM2JlZDFhMnRocHJ3Y2g3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR3yQePff1586YM/giphy-downsized.gif" width="50"></p>
 <p>- 🌱 I’m currently learning Master of Information Technology in RMIT University.</p>
-<p>- 💞️ I’m looking to collaborate on Open source.</p>
+<p>- 💞️ I’m a open-source contributor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 <p>- 📫 How to reach me https://yunaeecy.gitbook.io/wiki/  Email:yunaeecy@gmail.com</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
+
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h4NGh1d2MzMzB3Z3hkdnZ1NmxiZW9qM2JlZDFhMnRocHJ3Y2g3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR3yQePff1586YM/giphy.gif
 
 ```bash
 const yuna = {
