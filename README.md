@@ -9,8 +9,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h4NGh1d2MzMzB3Z3hkdnZ1NmxiZW9qM2JlZDFhMnRocHJ3Y2g3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR3yQePff1586YM/giphy.gif
-
 ```bash
 const yuna = {
   name: "Yuna",
