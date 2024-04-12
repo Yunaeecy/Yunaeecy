@@ -1,5 +1,5 @@
 <div>
-<img width="25%" align="right" src="https://github.com/Yunaeecy/Yunaeecy/blob/main/.github/workflows/00001-725946248.png">
+<p><img width="25%" align="right" src="https://github.com/Yunaeecy/Yunaeecy/blob/main/.github/workflows/00001-725946248.png"></p>
 
 <p>- 👋 Hi, I’m @Yunaeecy</p>
 <p>- 👀 I’m interested in playing piano.</p>
@@ -30,7 +30,7 @@ const yuna = {
 }
 ```
 
-<!-- <p align="left" width="100%">
+<p align="left" width="100%">
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/82499435/197423420-c593ad0e-aedd-4ad4-b5ba-22fce0cd066d.gif">
-</p> -->
+</p>
 </div>
